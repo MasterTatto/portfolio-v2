@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb078b0f-c0ec-4aef-9275-d108bf0455af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
       <workItem from="1630346384806" duration="15049000" />
       <workItem from="1630412952250" duration="7461000" />
       <workItem from="1630420521156" duration="31000" />
+      <workItem from="1630420575616" duration="441000" />
     </task>
     <servers />
   </component>
