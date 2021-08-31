@@ -1,0 +1,13 @@
+@import '../../../global';
+.portfolioList {
+  font-size: 18px;
+  margin-right: 50px;
+  padding: 7px;
+  cursor: pointer;
+  border-radius: 15px;
+
+  &.active {
+    background-color: $mainColor;
+    color: #fff;
+  }
+}
