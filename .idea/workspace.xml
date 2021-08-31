@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb078b0f-c0ec-4aef-9275-d108bf0455af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
   <component name="ProjectId" id="1xSN3j3MircNcjNwj4dUH5LLeoH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -53,7 +54,7 @@
       <workItem from="1630346384806" duration="15049000" />
       <workItem from="1630412952250" duration="7461000" />
       <workItem from="1630420521156" duration="31000" />
-      <workItem from="1630420575616" duration="441000" />
+      <workItem from="1630420575616" duration="1069000" />
     </task>
     <servers />
   </component>
